@@ -10,4 +10,3 @@ What is Internationalization?<br/>
 Internationalization is developers’ effort to make the app adaptable to different locales by creating locale-based files and importing assets.
 
 Read More: https://medium.com/@sunisha.guptan/internationalizing-your-flutter-apps-d36b7478440d
-
