@@ -1,0 +1,35 @@
+{
+    "name": "internationalizing_localizations",
+    "short_name": "internationalizing_localizations",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Agood user experience needs to be usable, equitable, enjoyable, and useful. If you are building an app and targeting broad users worldwide who speak different languages, you need to provide localizations which is one of the equitable aspects of UX.  Localizations means you provide your app in different languages (i.e. English, Bahasa Indonesia, etc).",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
