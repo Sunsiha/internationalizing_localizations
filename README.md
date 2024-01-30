@@ -1,16 +1,9 @@
-# internationalizing_localizations
+# Internationalizing your Flutter apps
+   
+https://medium.com/@sunisha.guptan/internationalizing-your-flutter-apps-d36b7478440d
 
-Agood user experience needs to be usable, equitable, enjoyable, and useful. If you are building an app and targeting broad users worldwide who speak different languages, you need to provide localizations which is one of the equitable aspects of UX.  Localizations means you provide your app in different languages (i.e. English, Bahasa Indonesia, etc).
+What is localization?<br/>
+Localizing the app means customizing its features to match the user’s locale, such as adapting number, currency, date formats, and plurals.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+What is Internationalization?<br/>
+Internationalization is developers’ effort to make the app adaptable to different locales by creating locale-based files and importing assets.
